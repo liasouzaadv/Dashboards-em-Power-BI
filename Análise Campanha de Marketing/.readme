@@ -1,1 +1,13 @@
+Durante o curso de Power BI da Data Science Academy, desenvolvi este mini-projeto com foco em analisar campanhas de marketing e o comportamento de clientes usando visualizações dinâmicas e interativas.
 
+Foram criados 4 dashboards que trazem insights importantes sobre os dados:
+
+📊 Visão do Cliente – perfil de clientes por escolaridade, estado civil e país.
+🛍️ Visão do Comportamento de Compra – análise de gastos por renda, número de filhos e adolescentes em casa.
+📈 Visão da Performance das Campanhas – comparação entre resultados das campanhas e variáveis como escolaridade e renda.
+🌍 Visão dos Padrões de Compra por País – análise de gastos em diferentes países e ao longo dos anos.
+
+Este projeto foi uma excelente oportunidade para praticar modelagem de dados, criação de medidas em DAX e design de dashboards, reforçando a importância do Power BI como ferramenta estratégica para tomada de decisão baseada em dados.
+
+🔗 (Se quiser, adicione aqui o link para o PDF ou para o Power BI Service se o dashboard estiver publicado)
+#PowerBI #DataAnalytics #MarketingAnalytics #DataVisualization #DSA #AprendizadoContínuo #DataDriven
